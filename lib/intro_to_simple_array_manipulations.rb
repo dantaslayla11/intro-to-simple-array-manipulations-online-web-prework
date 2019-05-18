@@ -1,3 +1,3 @@
-def using_push(array, string)
-  push.last 
+def using_push()
+ 
 end
