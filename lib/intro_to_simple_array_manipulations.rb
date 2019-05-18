@@ -1,3 +1,3 @@
-def using_push()
-  updated_array.last
+def using_push(next_contry)
+  .last
  end
