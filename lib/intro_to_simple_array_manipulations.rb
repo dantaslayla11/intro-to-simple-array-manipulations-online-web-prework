@@ -1,3 +1,3 @@
-def using_push(countries_in_western_africa)
+def using_push(array, string)
   push.last 
 end
