@@ -1,3 +1,3 @@
-def (array, string)
+def push(array, string)
   
  end
