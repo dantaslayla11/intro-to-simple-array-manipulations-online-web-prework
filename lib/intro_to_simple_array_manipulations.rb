@@ -1,3 +1,3 @@
 def using_push(countries_in_western_africa, next_country)
-  .last()
+  a.last
  end
